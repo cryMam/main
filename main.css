@@ -1,0 +1,27 @@
+.lqs-date-picker {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  width: 150px;
+  color: var(--light-color) !important;
+}
+
+.lqs-chart-icon {
+  margin-left: 20px;
+}
+
+/* LQS report BY ITEM table */
+.lqs-filter-search {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-right: 20px;
+}
+
+.lqs-problem-select {
+  margin-left: 10px;
+}
+
+.lqs-table-container {
+  justify-self: center;
+  display: grid;
+}
